@@ -3,7 +3,7 @@ echo $(hostname)
 echo $(date)
 echo $(uptime)
 echo $(whoami)
-abcd
+AAAAAbcd
 efgh
 njjdhhjsdanbc
 dsnfkjdsnf
