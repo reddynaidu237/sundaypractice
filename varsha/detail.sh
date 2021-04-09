@@ -5,4 +5,3 @@ echo $(uptime)
 echo $(ifconfig)
 dfsdv
 sdc,lsd
-dfvdf
